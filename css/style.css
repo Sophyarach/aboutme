@@ -1,3 +1,10 @@
 html {
 	background-image: url(../img/img.jpg);
 	background attachment: fixed
+	}
+h1{
+	text align:center
+	}
+.photo {
+	text-align: center;
+	}
